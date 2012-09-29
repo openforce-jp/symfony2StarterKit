@@ -3,6 +3,11 @@ symfony2StarterKit
 
 Sonata Admin, FosUser,  SQLiteなど、Symfony2を使うのに便利なものを詰めあわせておいたものです。
 
+必要なパッケージをインストールします。
+
+`php composer.phar update`
+
+
 以下のコマンドで必要なcss/jsファイルを設定。
 
 `app/console assets:install`
